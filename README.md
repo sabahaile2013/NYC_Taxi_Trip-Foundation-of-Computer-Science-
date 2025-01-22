@@ -14,5 +14,5 @@ This repository contains the NYC Taxi Trip analysis project for the Foundation o
 ## How to Run
 1. Clone this repository
 2. Install the required Python packages (see requirements.txt).
-3. Open and run the Jupyter Notebook file `analysis.ipynb`.
+3. Open and run the Jupyter Notebook file `analysis.ipynb`
 
