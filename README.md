@@ -8,7 +8,7 @@ This project analyzes NYC taxi trip data to extract insights about trip patterns
 - Understand fare and tip distributions.
 
 ## How to Run
-1. Clone this repository.
+1. Clone this repository
 2. Install the required Python packages (see requirements.txt).
 3. Open and run the Jupyter Notebook file `analysis.ipynb`.
 
