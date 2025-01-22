@@ -1,6 +1,10 @@
 # NYC Taxi Trip Fare Analysis
 
-This project analyzes NYC taxi trip data to extract insights about trip patterns, fare trends, and popular routes.
+
+This repository contains the NYC Taxi Trip analysis project for the Foundation of Computer Science course (2024-2025). The analysis involves cleaning and exploring taxi trip data, identifying trends, and answering specific project questions.
+
+## Folder Structure
+
 
 ## Features
 - Analyze long-distance trips.
